@@ -28,7 +28,9 @@ Read the config file and make some changes based on you computer settings.
 
 - model: some pre-defined models which can be imported in the main.py.
 
-- Data_Processing: all modules related to data processing
+- Data_Processing: all modules related to data processing.
+
+- hardware_part: for raspberry-Pi based delay signal generator.
 
 - others: other related file.
 
