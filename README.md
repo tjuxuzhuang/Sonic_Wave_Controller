@@ -1,4 +1,4 @@
-# 大学生挑战杯——声控
+# Sonic_Wave_Controller
 
 2019.05.06
 
